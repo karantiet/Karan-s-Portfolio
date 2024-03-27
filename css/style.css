@@ -94,7 +94,7 @@ body.dark-theme
 
 /* blob */
 .blob{
-  background-image: url(./2.png);
+  background-image: url(/images/karan1.png);
   width: 270px;
   height: 270px;
   background-size:cover;
